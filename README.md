@@ -3,7 +3,7 @@
 This is the repo of the assignment 2 of Performance Matters: Server Side.
 The goal of the assignment was to adapt an excisting app from client side to server side. The server runs on Node.js, and several packages. I've never worked with Node.js before, so it took some time for me to understand how it works.
 
-A link to a live version can be found [here](https://performance-matters-server-side-groqrjgpjv.now.sh)
+A link to a live version for the presentation can be found [here](https://7d0c2e27.ngrok.io)
 
 - **[Installation](#installation)**
 - **[The app](#the-app)**
